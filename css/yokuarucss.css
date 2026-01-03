@@ -1,0 +1,5 @@
+@charset "utf-8";
+.form-item {
+  position: sticky;
+  top: 0;
+}
